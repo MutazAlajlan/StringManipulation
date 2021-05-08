@@ -1,0 +1,12 @@
+/Users/rook/Projects/Week1Day1/Week1Day1/bin/Debug/netcoreapp3.1/Week1Day1.deps.json
+/Users/rook/Projects/Week1Day1/Week1Day1/bin/Debug/netcoreapp3.1/Week1Day1.runtimeconfig.json
+/Users/rook/Projects/Week1Day1/Week1Day1/bin/Debug/netcoreapp3.1/Week1Day1.runtimeconfig.dev.json
+/Users/rook/Projects/Week1Day1/Week1Day1/bin/Debug/netcoreapp3.1/Week1Day1.dll
+/Users/rook/Projects/Week1Day1/Week1Day1/bin/Debug/netcoreapp3.1/Week1Day1.pdb
+/Users/rook/Projects/Week1Day1/Week1Day1/obj/Debug/netcoreapp3.1/Week1Day1.csprojAssemblyReference.cache
+/Users/rook/Projects/Week1Day1/Week1Day1/obj/Debug/netcoreapp3.1/Week1Day1.AssemblyInfoInputs.cache
+/Users/rook/Projects/Week1Day1/Week1Day1/obj/Debug/netcoreapp3.1/Week1Day1.AssemblyInfo.cs
+/Users/rook/Projects/Week1Day1/Week1Day1/obj/Debug/netcoreapp3.1/Week1Day1.csproj.CoreCompileInputs.cache
+/Users/rook/Projects/Week1Day1/Week1Day1/obj/Debug/netcoreapp3.1/Week1Day1.dll
+/Users/rook/Projects/Week1Day1/Week1Day1/obj/Debug/netcoreapp3.1/Week1Day1.pdb
+/Users/rook/Projects/Week1Day1/Week1Day1/obj/Debug/netcoreapp3.1/Week1Day1.genruntimeconfig.cache
